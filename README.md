@@ -6,3 +6,4 @@ This repo contains my python automation scripts, Every script will have a readme
 1. <a href= "/get-wifi-passwords"> wifi passwords collector</a>
 2. <a href= "/pdf-merger"> PDF Merger</a>
 3. <a href= "/current-directory-organizer"> Directory(Folder) Organizer</a>
+4. <a href= "/c&cpp-enums-to-python-enums"> C and C++ to Python Enum converter </a>
