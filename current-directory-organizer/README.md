@@ -1,5 +1,5 @@
 # Directory Organizer
-This python  scripts orgainzes your directory to folders (PDF , Word , Code)
+This python  scripts orgainzes your directory by moving files with specific extensions to folders (PDF , Word , Code)
 
 
 ## How to use
