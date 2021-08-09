@@ -1,5 +1,4 @@
-# ![Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python Automation 
-Scripts
+# ![Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python Automation Scripts
 This repo contains my python automation scripts, Every script will have a readme included on how it works 
 
 ## Content
